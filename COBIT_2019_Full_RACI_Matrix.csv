@@ -1,0 +1,40 @@
+Objective Code,Objective Name,Responsible,Accountable,Consulted,Informed
+EDM01,Ensured Governance Framework Setting and Maintenance,Board,Board,"CIO, Risk Officer",All Staff
+EDM02,Ensured Benefits Delivery,Executive Mgmt,Executive Mgmt,Strategy Office,All Staff
+EDM03,Ensured Risk Optimisation,Risk Mgmt,Board,Risk Officer,"Board, Exec Mgmt"
+EDM04,Ensured Resource Optimisation,Executive Mgmt,Executive Mgmt,"Finance, HR",Exec Mgmt
+EDM05,Ensured Stakeholder Engagement,Board,Board,Relationship Mgr,All Staff
+APO01,Managed I&T Management Framework,CIO,CIO,Board,All Departments
+APO02,Managed Strategy,Strategy Office,CIO,Board,All Departments
+APO03,Managed Enterprise Architecture,Enterprise Architect,CIO,Strategy Office,IT Teams
+APO04,Managed Innovation,Innovation Manager,CIO,Innovation Team,Exec Mgmt
+APO05,Managed Portfolio,Portfolio Manager,CIO,Business Units,PMO
+APO06,Managed Budget and Costs,Finance,CFO,Business Units,Finance
+APO07,Managed Human Resources,HR,CHRO,Business Units,All Staff
+APO08,Managed Relationships,Relationship Manager,CIO,Business Units,Business Units
+APO09,Managed Service Agreements,Service Manager,CIO,Business Units,Business Units
+APO10,Managed Vendors,Vendor Manager,CIO,Procurement,Vendors
+APO11,Managed Quality,Quality Manager,CIO,Business Units,Exec Mgmt
+APO12,Managed Risk,Risk Officer,CRO,Board,All Staff
+APO13,Managed Security,Security Officer,CISO,Board,All Staff
+APO14,Managed Data,Data Steward,CDO,Data Governance,All Staff
+BAI01,Managed Programs,PMO,CIO,Business Units,Steering Committee
+BAI02,Managed Requirements Definition,Business Analyst,CIO,Product Owners,Stakeholders
+BAI03,Managed Solutions Identification and Build,Solution Architect,CIO,Development Team,IT Teams
+BAI04,Managed Availability and Capacity,Capacity Manager,CIO,Infrastructure,Business Units
+BAI05,Managed Organisational Change,Change Manager,CIO,HR,All Staff
+BAI06,Managed Changes,Change Coordinator,CIO,Service Desk,All Staff
+BAI07,Managed Change Acceptance and Transitioning,Release Manager,CIO,Service Desk,All Staff
+BAI08,Managed Knowledge,Knowledge Manager,CIO,All Staff,All Staff
+BAI09,Managed Assets,Asset Manager,CIO,Procurement,All Staff
+BAI10,Managed Configuration,Config Manager,CIO,Service Desk,All Staff
+BAI11,Managed Projects,Project Manager,CIO,Steering Committee,Exec Mgmt
+DSS01,Managed Operations,Operations Manager,COO,IT Teams,All Staff
+DSS02,Managed Service Requests and Incidents,Service Desk,COO,All Staff,All Staff
+DSS03,Managed Problems,Problem Manager,COO,Support Teams,All Staff
+DSS04,Managed Continuity,BCM Coordinator,COO,IT Teams,Exec Mgmt
+DSS05,Managed Security Services,Security Manager,CISO,Risk Team,All Staff
+DSS06,Managed Business Process Controls,Process Owner,COO,Process Teams,Control Owners
+MEA01,Managed Performance and Conformance Monitoring,Performance Manager,CIO,Exec Mgmt,Exec Mgmt
+MEA02,Managed System of Internal Control,Internal Control,CRO,Internal Audit,Exec Mgmt
+MEA03,Managed Compliance with External Requirements,Compliance Officer,CRO,Regulators,All Staff
